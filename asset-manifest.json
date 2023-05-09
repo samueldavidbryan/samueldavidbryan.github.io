@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/planar-puzzle/static/css/main.e6c13ad2.css",
-    "main.js": "/planar-puzzle/static/js/main.b82de031.js",
-    "static/js/787.c15fd5c8.chunk.js": "/planar-puzzle/static/js/787.c15fd5c8.chunk.js",
-    "index.html": "/planar-puzzle/index.html",
-    "main.e6c13ad2.css.map": "/planar-puzzle/static/css/main.e6c13ad2.css.map",
-    "main.b82de031.js.map": "/planar-puzzle/static/js/main.b82de031.js.map",
-    "787.c15fd5c8.chunk.js.map": "/planar-puzzle/static/js/787.c15fd5c8.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.7caefe2b.js",
+    "static/js/787.c15fd5c8.chunk.js": "/static/js/787.c15fd5c8.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.7caefe2b.js.map": "/static/js/main.7caefe2b.js.map",
+    "787.c15fd5c8.chunk.js.map": "/static/js/787.c15fd5c8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.b82de031.js"
+    "static/js/main.7caefe2b.js"
   ]
 }
